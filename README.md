@@ -22,3 +22,4 @@ https://github.com/rainbow-cnay/Tenda_U9_on_Jetson_nano
 
 把文件放到rtl8821cu目录里，应该可以直接用 make install 安装。祝好运！
 
+似乎只能连接一次，断开再连接或连接其它AP会认证失败，不知道能不能下一步解决。
